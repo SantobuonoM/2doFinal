@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "body": {
+      "name": "pepe1",
+      "price": "123",
+      "description": "asd"
+    }
+  },
+  {
+    "id": 2,
+    "body": {
+      "name": "pepe1",
+      "price": "123",
+      "description": "asd"
+    }
+  },
+  {
+    "id": 3,
+    "body": {
+      "name": "pepe1",
+      "price": "123",
+      "description": "asd"
+    }
+  }
+]
